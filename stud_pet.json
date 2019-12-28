@@ -1,0 +1,32 @@
+{
+	" Student_Name ": "  ",
+	" Section " : "  ",
+	" gender : " Male ",
+	" Teacher " : "  ",
+	" Time-in " : "  ",
+	" Time-out " : "  ",
+		" Pet " : [{
+			" Pet_name " : "  ",
+			" Pet_level " : "  ",
+			" gender " : "  ",
+			" accessories " : "  ",
+			" hygiene " : " 50 ",
+			" hunger " : " 50 ",
+			" happiness " : " 50 ",
+			" energy " : " 50 ",
+				" Pet_dress " : [{
+					"head" : [{
+						" hair " : [{
+							" color " : " #000000 ",
+							" type " : " type "
+				}],
+						" eyes " : [{
+							" color " : "  #000000 ",
+							" type " : "type1"
+				}],
+						" nose " : " round "
+			}],
+		}],
+	}]
+
+}
